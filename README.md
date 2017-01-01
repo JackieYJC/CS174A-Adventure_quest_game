@@ -1,5 +1,5 @@
 # ADVENTURE QUEST
-Designed and coded by Jiachen Yang 104641376 in UCLA CS174A Intro to Computer Graphics, using OpenGL and Javascript
+Designed and coded by Jiachen Yang 104641376 in UCLA CS174A Intro to Computer Graphics, using Javascript, HTML and OpenGL
 
 (To run this game, open the index.html in sample_project and follow the instruction at the bottom of the screen)
 
