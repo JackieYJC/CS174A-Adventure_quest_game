@@ -1,6 +1,9 @@
 # ADVENTURE QUEST
-designed and coded by Jiachen Yang 104641376 in UCLA CS174A Intro to Computer Graphics
-(to run this game, open the index.html in sample_project)
+Designed and coded by Jiachen Yang 104641376 in UCLA CS174A Intro to Computer Graphics
+
+(To run this game, open the index.html in sample_project and follow the instruction at the bottom of the screen)
+
+Here are some course required descriptions:
 
 -Hierarchical Design: this program uses hierarchical design to draw its object. For instance, to draw the dragon, it first draw its feet, then move upward to draw its body, head and wings. The hierarchy could be seen by the various functions defined outside of display() to be called to draw objects. 
 
