@@ -27,4 +27,4 @@ Several complexity points:
 	I used a sphere to create the sky of the game, so it could be textured in gradients.
 I paid a looot of attention to gamer experience. 
 
-#### Score of the project: 35/37
+#### Final score of the project: 35/37
